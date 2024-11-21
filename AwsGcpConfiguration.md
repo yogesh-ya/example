@@ -41,7 +41,7 @@ server:
 
 The following section details the GCP-specific configuration.
 
-### `application-dev.yml` (GCP)
+### `application-dev-gcp.yml` (GCP)
 
 ```yaml
 gcp:
